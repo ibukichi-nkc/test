@@ -1,1 +1,1 @@
-Hellow
+print("Hellow")
